@@ -1,12 +1,12 @@
 # aula-jquery-ajax
 Introdução ao jQuery e Ajax. Digital Innovation One.
 
-- [ ] Mercury
-- [ ] Venus
-- [ ] Earth
+- [x] Mercury
+- [x] Venus
+- [x] Earth
 - [ ] Mars
 - [ ] Jupiter
 - [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
+- [x] Uranus
+- [x] Neptune
 - [ ] Comet Haley
