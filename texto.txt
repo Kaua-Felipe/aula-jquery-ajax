@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A fimose do Hudson está estourando!!
+=======
+A fimose do José está estourando!!
+>>>>>>> 6a539064c80b93b4c03dbfb72ba1332eececfef1
