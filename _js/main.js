@@ -4,6 +4,7 @@ function consultarCep() {
     var url = `https://viacep.com.br/ws/${cep}/json`
     console.log(url)
 
+    //Declarando $.ajax
     $.ajax({
         url: url,
         type: "GET",
